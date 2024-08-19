@@ -1,0 +1,72 @@
+PROJECT REPORT ON
+“Design and Implement a Website for King Sukh Guest House using HTML
+Java-script and CSS”
+Submitted By:
+Rishesha Harsh
+August, 2024
+
+
+
+
+Project Scope
+The Kingsukh Guest House website aims to provide visitors with comprehensive information
+about the guest house, its amenities, services, and nearby attractions. The primary goal is to
+create an immersive experience for potential guests, enticing them to book their stay at
+Kingsukh Guest House. Key features include:
+• Hero Section: Engaging header with background image and navigation.
+• About Section: Details about the guest house and nearby attractions.
+• Rooms Section: Information on available room types with images.
+• Services Section: List of guest house services.
+• Live Counting Banner: Counters for bookings and happy customers.
+• Gallery Section: Image gallery of the guest house and surroundings.
+• Contact Section: Contact information and a message form.
+• Google Map Integration: Embedded map showing the guest house location.
+• Footer: Quick links, social media icons, and contact details.
+
+
+Design Decisions
+• Visual Appeal: The website design emphasizes a clean and visually appealing layout
+to create a welcoming atmosphere for potential guests.
+• User Experience: Navigation is kept simple and intuitive to ensure easy access to
+information. Clear calls-to-action prompt visitors to book their stay.
+• Responsive Design: The website is designed to be responsive across various devices,
+ensuring a seamless browsing experience for users on desktops, tablets, and
+smartphones.
+
+
+
+Technical Details
+The website is built using the following technologies:
+• HTML: Structure and content of the web pages.
+• CSS: Styling and layout of the web pages.
+• JavaScript: Enhancing interactivity and functionality.
+• Remix Icon: Used for icons throughout the website.
+• Scroll Reveal: Provides animations for a dynamic user experience.
+
+
+Maintenance and Updates
+To maintain and update the website in the future, follow these instructions:
+• Content Updates: Update content such as room descriptions, services, and contact
+information directly in the HTML files.
+• Styling Changes: Modify styles by editing the CSS files.
+• Functionality Updates: Update JavaScript code in the main.js and script.js files to add
+new features or improve existing ones.
+• Image Updates: Replace existing images or add new ones to the images folder as
+needed.
+• Dependency Updates: Regularly check for updates to external dependencies such as
+Remix Icon and ScrollReveal libraries.
+• Testing: After making changes, thoroughly test the website across different devices
+and browsers to ensure compatibility and functionality.
+
+
+Challenges Faced and Solutions
+During the redesign process, the main challenges encountered were:
+• Responsive Design: Ensuring consistent display and functionality across various
+devices posed a challenge. This was addressed by using responsive design principles
+and testing the website extensively on different devices.
+• Integration of Google Maps: Integrating Google Maps to display the location of the
+guest house required careful implementation. This was achieved by embedding the
+map iframe and adjusting its parameters to fit the layout seamlessly.
+• Animation Implementation: Implementing animations for a dynamic user experience
+required careful consideration of performance and compatibility. ScrollReveal library
+was chosen for its ease of use and compatibility with modern web browsers.
