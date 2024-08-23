@@ -28,7 +28,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/kingsukh-guesthouse-website.git
+   git clone https://github.com/harshu-789/kingsukh-guesthouse-website.git
 2. Open the project folder in your code editor.
 
 3. Explore the code and make any modifications or improvements you desire.
